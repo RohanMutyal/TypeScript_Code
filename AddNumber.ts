@@ -5,4 +5,5 @@ function add(a,b)
 
 //var ans=(add(45,23));
 console.log(+add(45,78))
+console.log("hello hello")
 
